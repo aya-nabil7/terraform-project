@@ -1,0 +1,4 @@
+private-ip 10.0.1.12
+private-ip 10.0.3.166
+public-ip 34.227.16.128
+public-ip 34.228.168.3
